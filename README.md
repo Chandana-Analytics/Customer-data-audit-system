@@ -1,4 +1,5 @@
 # 📊 Customer Data Quality Audit & Reporting System
+<img width="1485" height="741" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/13221115-c591-49d2-9505-0b45f1734cc1" />
 
 ## **Project Purpose**
 I built this system to audit a dataset of **2,240 customer records**. My goal wasn't just to "clean" the data, but to create a repeatable engine that gives stakeholders a transparent look at how much they can actually trust their database before they use it for reporting.
