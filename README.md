@@ -13,6 +13,8 @@ I made a deliberate choice to **bypass Pivot Tables** for the audit logic. Inste
 * **The "Dirty" Data:** I flagged **30 critical errors** that were buried in the raw data.
 * **Where the errors are:** Most of the issues were concentrated in the **Income** and **Birth Year** fields. It's a clear sign that the manual entry process there is a bit weak.
 * **Data Health Score:** The final score came out to **98.66%**. It sounds high, but that 1.34% error gap in financial fields can actually cause a lot of trouble in a final report.
+ 
+<img width="1418" height="308" alt="Audit_conclusion" src="https://github.com/user-attachments/assets/1ee0d07f-8654-490d-a89c-83bcc126398c" />
 
 ## **💡 My Insights**
 * **The Income Problem:** Over 80% of the errors were in the Income field. This tells me the entry form probably needs better validation rules (like dropdowns) to stop typos at the source.
